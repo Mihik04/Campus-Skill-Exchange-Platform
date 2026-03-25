@@ -8,7 +8,6 @@ A full-stack web platform where college students can post projects, find collabo
 
 **Frontend**
 - React.js (Create React App)
-- Lucide React (icons)
 - CSS Variables design system
 - Fully responsive (mobile, tablet, desktop)
 
